@@ -1,4 +1,4 @@
-# AtacWorks
+## AtacWorks
 
 AtacWorks is a deep learning toolkit for coverage track denoising and peak calling from low-coverage or low-quality ATAC-Seq data.
 
